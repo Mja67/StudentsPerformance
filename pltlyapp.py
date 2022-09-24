@@ -5,7 +5,7 @@ Created on Sat Sep 24 16:58:38 2022
 @author: mjaf8
 """
 
-!pip install pyplot
+
 import pandas as pd
 import plotly.express as px
 
