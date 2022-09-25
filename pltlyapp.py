@@ -15,7 +15,7 @@ import seaborn as sns
 import nltk
 import streamlit as st
 
-df=pd.read_csv('C:/Users/mjaf8/Downloads/StudentsPerformance.csv')
+df=pd.read_csv('StudentsPerformance.csv')
 
 
 
